@@ -1,0 +1,28 @@
+body, html {
+  margin: 0 auto;
+}
+
+body {
+  background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/SbIAc5ZuZj6ev05vb/videoblocks-romantic-hearts-background-1_svardvgo_thumbnail-full06.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#firstTest {
+  text-align: center;
+  font-size: 3vw;
+}
+
+#secondTest {
+  text-align: center;
+  font-size: 2vw;
+}
+
+.contentDiv {
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.7);
+  width: 85%;
+  height: 100%;
+  margin-top: 50px;
+}
